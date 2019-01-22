@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "888698599256",
+    "firebase_url": "https://techreinforce.firebaseio.com",
+    "project_id": "techreinforce",
+    "storage_bucket": "techreinforce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888698599256:android:1e18f5dea18c2160",
+        "android_client_info": {
+          "package_name": "in.techreinforce.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888698599256-c2rjfgfmusatfnteiffliiq2ihc0rcne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.techreinforce.firebasenotifications",
+            "certificate_hash": "4aafd8e426d38a570161e71d3d0b8461d047ed14"
+          }
+        },
+        {
+          "client_id": "888698599256-v67fjnhi5kqrrklvoufeh58negq7h8so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFPIgnKRttUdEj9o_zhEobsAjuJNe70fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888698599256-v67fjnhi5kqrrklvoufeh58negq7h8so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888698599256:android:f72aad3412d784f6",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888698599256-gc7s3v4psbbuphdvplf5glorc5mqtl3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.firebasenotifications",
+            "certificate_hash": "4aafd8e426d38a570161e71d3d0b8461d047ed14"
+          }
+        },
+        {
+          "client_id": "888698599256-v67fjnhi5kqrrklvoufeh58negq7h8so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFPIgnKRttUdEj9o_zhEobsAjuJNe70fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888698599256-v67fjnhi5kqrrklvoufeh58negq7h8so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
